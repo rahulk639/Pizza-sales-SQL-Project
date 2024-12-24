@@ -28,4 +28,4 @@ This project is a SQL-based data analysis of pizza sales, inspired by [this YouT
 - Top 3 pizzas by revenue for each category.
 
 ## 🎥 Credit
-This project is based on the tutorial by [TechTFQ](https://www.youtube.com/watch?v=zZpMvAedh_E).
+This project is based on the tutorial by [WS Cube Tech](https://www.youtube.com/watch?v=zZpMvAedh_E).
